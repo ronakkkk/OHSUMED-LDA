@@ -1,1 +1,1 @@
-# OHSUMED-LDA-Assignment
+# OHSUMED-LDA
